@@ -11,7 +11,7 @@ feign:
     enabled: true       
   
 server: 
-  port: 100041
+  port: 10004
 #  servlet:
 #    context-path: /c1   
   
