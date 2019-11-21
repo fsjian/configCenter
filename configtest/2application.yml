@@ -1,4 +1,4 @@
 
 spring:
   application:
-    name: configtest1
+    name: configtest
