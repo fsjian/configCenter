@@ -1,0 +1,7 @@
+eureka:  
+  client: 
+    service-url:  
+      defaultZone: http://localhost:10001/eureka/
+  instance:
+    instance-id: configtest10004  # 修改微服务在界面中，右边status中展示的名字
+    prefer-ip-address: true  # 鼠标移上去显示ip信息
